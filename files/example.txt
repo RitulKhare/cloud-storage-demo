@@ -1,0 +1,2 @@
+This is an example file for the cloud storage demo.
+Uploaded via script to AWS S3 or Google Cloud Storage.
